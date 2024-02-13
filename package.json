@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "build": "your-build-command-here",  
+    "build": "npm run build",  
     "start": "node app.js"  
   },
   
