@@ -4,10 +4,9 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "build": "npm run build",  
-    "start": "node app.js"  
+    "start": "node server.js",
+    "build": "echo 'npm run build'"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
